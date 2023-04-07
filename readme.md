@@ -1,8 +1,4 @@
-# Programación Ambiente Cliente/Servidor
-
-# Tema 3 : Remote Method Invocation (RMI)
-
-# Actividad 1
+# Programación Ambiente Cliente/Servidor.<br>Tema 3 : Remote Method Invocation (RMI)<br>Actividad 1
 
 Como parte del desarrollo de esta actividad, se siguieron las instrucciones estipuladas en el [manual de prácticas](./Manual_PACS_V2.pdf) de la asignatura que se puede encontrar en el repositorio.
 
